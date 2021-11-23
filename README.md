@@ -21,3 +21,11 @@ s.push('behrad')
 const item = s.pop() // item === 'behrad'
 
 ```
+
+
+# Develop Guide
+
+To clone project run 
+`git clone https://github.com/behrad/stack.git`
+
+Start coding...
