@@ -29,3 +29,5 @@ To clone project run
 `git clone https://github.com/behrad/stack.git`
 
 Start coding...
+
+I am changing this readme to add more help.
